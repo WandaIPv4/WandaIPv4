@@ -12,13 +12,11 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com
-[instagram]: https://www.instagram.com
-[linkedin]: https://linkedin.com/in
+
+[linkedin]: www.linkedin.com/in/wanda-t-190b30128
+
 
 <!--
 **WandaIPv4/WandaIPv4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
