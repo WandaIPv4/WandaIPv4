@@ -1,6 +1,6 @@
 <h1>Hi, I'm Wanda, an <a href="https://www.linkedin.com/in/wanda-t-190b30128/">IT Professional</a>☺</h1>
 
-<h2> Information Technology Projects:</h2>
+<h2> Information Technology Project:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/wandaipv4/osticket-prereqs)
